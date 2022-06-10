@@ -27,4 +27,5 @@ Project for Aize interview process
   
   When in the docker image, you can run command "cd /spring-boot-projects/spring-boot-modules/spring-boot-angular/src/main/js/application" to change to the correct     directory, from here you can run the command ng serve & the front end should run. 
 
-    ![image](https://user-images.githubusercontent.com/46785081/173079464-51fc797c-643a-450d-a550-201858988f9a.png)
+![image](https://user-images.githubusercontent.com/46785081/173082382-b996a4d8-f5c9-43eb-897c-393fe977dcb0.png)
+
