@@ -1,7 +1,7 @@
 # Aize-spring-boot-EoinGordon
 Project for Aize interview process
 
-**Spring Boot Api docker image instructions
+**Spring Boot Api docker image instructions**
 
 To pull docker image down to host machine, run docker pull eoinjag/aizespringboot
 
@@ -17,7 +17,7 @@ Before we do this we will need to use "docker ps" to get a list of container ID'
 
 The exec command should now be input: docker exec -it -d <container id> /bin/bash -c "cd /spring-boot-projects/spring-boot-modules/spring-boot-angular/; mvn spring-boot:run"
   
-**Angular front end docker image instructions
+**Angular front end docker image instructions**
   
 To pull docker image down to host machine, run docker pull eoinjag/aizeangular
   
